@@ -1,0 +1,9 @@
+git add .
+git commit -m "메세지"
+git push origin master
+
+cd public
+
+git add .
+git commit -m "메세지"
+git push origin master
